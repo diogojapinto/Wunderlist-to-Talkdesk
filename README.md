@@ -1,2 +1,2 @@
-# Wunderlist-to-Talkdesk
-Tool in Python to export Wunderlist data into Talkdesk
+# Wunderlist-to-Todoist
+Tool in Python to export Wunderlist data into Todoist
