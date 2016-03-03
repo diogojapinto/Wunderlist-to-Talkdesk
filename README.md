@@ -16,8 +16,12 @@ If you have any sugestion, please contact me to my [diogojapinto@gmail.com](mail
   1. $ pip install pytodoist
   2. $ python wunderlist2todoist.py [email] [wunderlist_dump_path]
   3. Input the password when requested
-4. Enjoy a service that is being actively developed :wink:
+4. Enjoy :wink:
 
 ## Tips
 
 * Be careful about leading and trailing white-spaces in your JSON.
+
+## WIP
+
+* Dealing with misconnections and maximum number of requests to the Todoist API.
